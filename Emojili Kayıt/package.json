@@ -1,0 +1,16 @@
+{
+  "name": "ghost-emojili-kayit",
+  "version": "1.0.0",
+  "description": "GH0ST Emojili Kayıt Altyapısı",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "FIRAT#9999",
+  "license": "ISC"
+}
